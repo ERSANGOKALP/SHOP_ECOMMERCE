@@ -1,0 +1,3 @@
+[submodule "SHOP-ECOMMERCE-CLIENT"]
+	path = SHOP-ECOMMERCE-CLIENT
+	url = https://github.com/ERSANGOKALP/SHOP-ECOMMERCE.git
